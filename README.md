@@ -26,7 +26,7 @@ Step 13:Generate the graph using networkx<br/>
 Step 14:Update margins and display the graph using matplotlib.pyplot<br/>
 
 ## Program:
-''' 
+```
 !pip install pybbn
 
 import pandas as pd
@@ -106,7 +106,7 @@ ax.margins(0.10)
 plt.axis("off")
 plt.show()
 
-'''
+```
 
 ## Output:
 
